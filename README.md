@@ -47,9 +47,9 @@ The system uses two separate YOLOv8 models:
 
 1. **Drowsiness Model:**
    - Classifies in Classes: `drowsy’, ‘awake’, ‘yawn’, ‘distraction’, ‘head drop’ ‘Phone’ , ‘smoking.
-   - Trained on public datasets:
-     - [Drowsiness_Model_set 1](https://universe.roboflow.com/addicons/drowsiness-sgvf2-fd3v9/dataset/2)
-     - [Drowsiness_Model_set 2](https://universe.roboflow.com/saujanya-shankar/drowsiness-sgvf2)
+   - Trained on public and collected datasets:
+     - [Drowsiness collected](https://universe.roboflow.com/addicons/drowsiness-sgvf2-fd3v9/dataset/2)
+     - [Drowsiness_public](https://universe.roboflow.com/saujanya-shankar/drowsiness-sgvf2)
    - Merging the two datasets can be done using the script "Merge_script.py"
 
 2. **Seatbelt Model:**
