@@ -5,4 +5,4 @@ Drowiness:
 ![image](https://github.com/lingeshwarant/Vision-Based-Driver-Monitoring-for-distraction-drowsiness-Detection/blob/main/drowsy.png)
 
 Distraction:
-![image](https://github.com/lingeshwarant/Vision-Based-Driver-Monitoring-for-distraction-drowsiness-Detection/blob/main/distraction.png)
+![image](https://github.com/lingeshwarant/Vision-Based-Driver-Monitoring-for-distraction-drowsiness-Detection/blob/main/distracted.png)
