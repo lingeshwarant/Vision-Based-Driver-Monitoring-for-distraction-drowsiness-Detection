@@ -1,10 +1,10 @@
 # Vision-Based-Driver-Monitoring-for-distraction-drowsiness-Detection
 
 # Drowiness:
-![image](https://github.com/lingeshwarant/Vision-Based-Driver-Monitoring-for-distraction-drowsiness-Detection/blob/main/drowsy.png)
+![image](https://github.com/lingeshwarant/Vision-Based-Driver-Monitoring-for-distraction-drowsiness-Detection/blob/main/Output_images/drowsy.png)
 
 # Distraction:
-![image](https://github.com/lingeshwarant/Vision-Based-Driver-Monitoring-for-distraction-drowsiness-Detection/blob/main/distracted.png)
+![image](https://github.com/lingeshwarant/Vision-Based-Driver-Monitoring-for-distraction-drowsiness-Detection/blob/main/Output_images/distracted.png)
 
 # Overview:
 Drowsiness and distraction detection system is a project designed to detects and alerts the drivers in real-time if remains drowsy or distracted from driving. Also seatbelt detection is added as additional feature.
