@@ -24,9 +24,35 @@ Drowsiness and distraction detection system is a project designed to detects and
 ## Key Files
 
 - `Training_Script.ipynb`: Script for Training the labelled dataset using yolov8n in Google colab.
-- `CaptureData.py`: Records and logs video data for analysis or training.
-- `DrowsinessDetector.py`: Core detection script integrating real-time inference and alerts.
-- `LoadData.ipynb`: Loads and preprocesses datasets.
-- `RedirectData.ipynb`: Organizes and redirects captured data for training.
-- `train.ipynb`: Notebook for training the YOLO models.
+- `Drowsiness_Detector_GUI.py`: Core detection script integrating real-time inference and alerts.
+- `model_format_convertion.ipynb`: Convert the .pt file trained weights into .onnx format.
+- `Merge_script.py`: Merge the labelled datasets with same folder structure in yolo format.
+
+---
+
+## Installation
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/tyrerodr/Real_time_drowsy_driving_detection.git
+    cd Real_time_drowsy_driving_detection
+    ```
+
+2. **Create a virtual environment:**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
+
+3. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Run the detection system:**
+    ```bash
+    python Drowsiness_Detector_GUI.py
+    ```
+
+---
 
