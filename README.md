@@ -25,7 +25,7 @@ Drowsiness and distraction detection system is a project designed to detects and
 
 - `Training_Script.ipynb`: Script for Training the labelled dataset using yolov8n in Google colab.
 - `Drowsiness_Detector_GUI.py`: Core detection script integrating real-time inference and alerts.
-- `model_format_convertion.ipynb`: Convert the .pt file trained weights into .onnx format.
+- `model_conversion.ipynb`: Convert the .pt file trained weights into .onnx format.
 - `Merge_script.py`: Merge the labelled datasets with same folder structure in yolo format.
 
 ---
